@@ -23,8 +23,8 @@
     grid-template-columns: 50% 50%;
     grid-template-rows: 1fr 1fr;
     height: 100vh;
-    column-gap: 0.5vh;
-    row-gap: 0.5vh;
+    column-gap: 1%;
+    row-gap: 1%;
   }
 
   #item-1 {
@@ -63,8 +63,8 @@
     display: grid;
     grid-template-columns: 80% 20%;
     grid-template-rows: 1fr 1fr;
-    column-gap: 0.5vh;
-    row-gap: 0.5vh;
+    column-gap: 1%;
+    row-gap: 1%;
     height: 100vh;
   }
 
@@ -105,8 +105,8 @@
     display: grid;
     grid-template-columns: 20% 1fr 20%;
     height: 100vh;
-    column-gap: 0.5vh;
-    row-gap: 0.5vh;
+    column-gap: 1%;
+    row-gap: 1%;
   }
 
   #item-1 {
